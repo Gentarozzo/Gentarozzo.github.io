@@ -4,11 +4,11 @@ This is where the journey starts!
 
 ```javascript
 
-function happiness(love){
-return love === love ? true : false;
-}
+  function happiness(love){
+    return love === love ? true : false;
+  }
 
-hapiness("your name")
+  hapiness("your name")
 ```
 
 ### Link to my Portfolio
