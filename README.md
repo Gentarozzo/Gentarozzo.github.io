@@ -5,7 +5,7 @@ This is where the journey starts!
 ```javascript
 
   function happiness(love){
-    return love === love ? true : false;
+    return love === "Julie" ? true : false;
   }
 
   hapiness("your name")
