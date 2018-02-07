@@ -14,4 +14,4 @@ This is where the journey starts!
 
 ### Link to my Portfolio
 
-[click here for colorful experience](https://codepen.io/Gentarozzo/full/OWZvEE/)
+[click here for a colorful experience](https://codepen.io/Gentarozzo/full/OWZvEE/)
