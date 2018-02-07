@@ -9,8 +9,9 @@ This is where the journey starts!
   }
 
   hapiness("your name")
+  
 ```
 
 ### Link to my Portfolio
 
-[click here for colorful experience] (https://codepen.io/Gentarozzo/full/OWZvEE/)
+[click here for colorful experience](https://codepen.io/Gentarozzo/full/OWZvEE/)
